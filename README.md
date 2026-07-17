@@ -1,7 +1,5 @@
 ## About me 👋
 
-**dilara-konti/dilara-konti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I am a **research-oriented Neuropsychology graduate (MSc)** passionate about exploring how the brain adapts, performs, and recovers under pressure, stress, and neurological challenges. My background bridges the gap between cognitive neuropsychology, applied social science, and advanced behavioural research methods.
 
 - 🌱 **My research & Clinical Interests:**
