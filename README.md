@@ -1,24 +1,20 @@
-## About me 👋
+# Hi, I'm Dilara 👋
 
-- 🔭 I am a **research-oriented Neuropsychology graduate (MSc)** passionate about exploring how the brain adapts, performs, and recovers under pressure, stress, and neurological challenges. My background bridges the gap between cognitive neuropsychology, applied social science, and advanced behavioural research methods.
+I'm a neuropsychology MSc graduate who likes working out what's really going on in messy data. I'm curious about how attention, memory and decisions change under stress, and about how the brain recovers after injury. I'm now looking for data analyst and research support roles, mainly in the Netherlands but also elsewhere in the EU.
 
-- 🌱 **My research & Clinical Interests:**
-  * **Cognitive Rehabilitation & Recovery:** Investigating cognitive performance, executive functioning, and neuroplasticity in adults following **Acquired Brain Injury (ABI)** and **Traumatic Brain Injury (TBI)** (e.g., stroke/trauma)
-  * **Stress & Decision-Making:** Exploring how acute stressors, cognitive load, and high-pressure environments alter human cognition and memory
-  * **Adult Clinical Populations:** Bridging the gap between empirical neuroscientific research and practical, patient-centred rehabilitation strategies
+## What I've worked on
+- **Master's thesis:** stress, pupil dilation and memory recall in a virtual reality experiment. I cleaned and merged eye-tracking, cortisol, blood pressure and survey data from 90 participants in R, and ran the analyses.
+- **[Exploratory analysis: stress, lifestyle and clinical variables](https://github.com/dilara-konti/mental-health-and-lifestyle-eda):** hypothesis tests with effect sizes and multiple-testing correction on a 3,000-row public dataset.
 
-- 🤔 **Technical & Methodological Toolkit:**
-  * **Programming & Stats:** R (Data Wrangling, "ggplot2" visualisation, and quantitative modelling), Basic Python (PsychoPy)
-  * **Eye-Tracking & Pupillometry:** Experienced in engineering data-cleaning and preprocessing pipelines from scratch to handle raw, noisy temporal eye-tracking and pupillary data
-  * **Experimental Paradigms:** Immersive Virtual Reality (VR) Data Integration, Behavioural Testing, and Diagnostic Adult Cognitive Batteries
+## Tools I use
+R (tidyverse, ggplot2, regression and ANOVA), Python (basics), SPSS (data entry), JASP (basics), Git/GitHub, Excel
 
-- 👯 **Current Focus & Independent Projects:**
-  * **Analysis:** (In Progress) Analysing neuroscientific data using public datasets from open-source repositories (e.g., OpenNeuro, ADNI) 
-  * **Community Integration:** Working toward B1 Dutch proficiency to better integrate into the local clinical and research landscape in the Netherlands
+## Things I'm curious about
+- Stress, cognition and memory
+- Cognitive rehabilitation after brain injury
 
-- 💬 **Happy to Connect!**
-  * I am highly motivated to connect with researchers, research centres, rehabilitation clinics, labs, and organisations focused on investigating cognitive performance after brain injuries, rehabilitation trajectories, behavioural human research, and applied neuropsychology.
+## Languages
+English (C2), Turkish (native), Dutch (B1.1)
 
-- 📫 **How to Reach Me:**
-  * **LinkedIn:** https://www.linkedin.com/in/dilarakonti/
-  * **Email:** dilara77konti@gmail.com
+## Say hi
+[LinkedIn](https://www.linkedin.com/in/dilarakonti/)
