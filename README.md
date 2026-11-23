@@ -1,6 +1,6 @@
 # Hi, I'm Dilara 👋
 
-I'm a neuropsychology MSc graduate who likes working out what's really going on in messy data. I'm curious about how attention, memory and decisions change under stress, and about how the brain recovers after injury. I'm now looking for data analyst and research support roles, mainly in the Netherlands but also elsewhere in the EU.
+I'm a neuropsychology MSc graduate who likes working out what's really going on in messy data. I'm curious about how attention, memory and decisions change under stress, and about how the brain recovers after injury. I'm now looking for data analyst and research support roles.
 
 ## What I've worked on
 - **Master's thesis:** stress, pupil dilation and memory recall in a virtual reality experiment. I cleaned and merged eye-tracking, cortisol, blood pressure and survey data from 90 participants in R (61 retained after quality checks), and ran the analyses.
